@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+body{
+    background-image: url(imagens/espacomenor.jpg);
+    background-size: cover;
+    
+}
+
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+}
